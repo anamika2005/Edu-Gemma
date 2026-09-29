@@ -1,6 +1,6 @@
-# edu-llama: AI Learning Assistant
+# Edu-Gemma: AI Learning Assistant
 
-edu-llama is a Streamlit app for studying with an AI tutor. It includes:
+Edu-Gemma is a Streamlit app for studying with an AI tutor. It includes:
 
 - **AI chat**, powered by free models on [OpenRouter](https://openrouter.ai/)
 - **PDF study**: upload a PDF, get a summary, and ask questions about it
